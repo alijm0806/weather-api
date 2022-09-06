@@ -1,0 +1,7 @@
+GET http://localhost:3000/weathers.json
+Content-Type: application/json
+
+  {
+    "city": "san diego",
+    "unit": "metric"
+  }
